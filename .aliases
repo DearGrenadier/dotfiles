@@ -1,0 +1,18 @@
+# GIT
+alias gb='git branch'
+alias gc='git checkout'
+alias gct='git checkout -'
+alias ga='git add -A'
+alias gcm='git commit -m'
+alias gcam='git commit -am'
+alias gri='git rebase -i'
+alias gr='git rebase'
+alias gpo='git push origin'
+alias gs='git status'
+alias glo='git log --oneline'
+# CAPISTRANO
+alias cpd='cap production deploy'
+alias csd='cap staging deploy'
+# BUNDLER
+alias b='bundle install'
+
