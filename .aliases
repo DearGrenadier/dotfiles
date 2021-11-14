@@ -15,3 +15,5 @@ alias cpd='cap production deploy'
 alias csd='cap staging deploy'
 # BUNDLER
 alias b='bundle install'
+# DOCKER
+alias dc='docker-compose'
